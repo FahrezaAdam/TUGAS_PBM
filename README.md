@@ -1,17 +1,20 @@
-# tugas1_pbm_prak
+# Katalog PBM 2026
 
-A new Flutter project.
+Tugas Praktikum Pemrograman Berbasis Mobile.
 
-## Getting Started
+## Screenshot Aplikasi
 
-This project is a starting point for a Flutter application.
+### 1. Halaman Login
+![Login Screen](ss_login.png)
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Halaman Utama (Katalog)
+![Home Screen](ss_home.png)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### 3. Halaman Form Tambah Produk
+![Form Tambah Produk](ss_form_produk.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 4. Halaman Form Submit Tugas
+![Form Submit Tugas](ss_form_submit.png)
+
+### 5. Detail Produk
+![Detail Screen](ss_detail.png)
