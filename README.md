@@ -10,8 +10,11 @@ Tugas Praktikum Pemrograman Berbasis Mobile.
 ### 2. Halaman Utama (Katalog)
 ![Home Screen](ss_home.png)
 
-### 3. Halaman Form Submit
-![Form Screen](ss_form.png)
+### 3. Halaman Form Tambah Produk
+![Form Tambah Produk](ss_form_produk.png)
 
-### 4. Detail Produk
+### 4. Halaman Form Submit Tugas
+![Form Submit Tugas](ss_form_submit.png)
+
+### 5. Detail Produk
 ![Detail Screen](ss_detail.png)
